@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8ae787-402b-44ea-83f5-04c96aa6fa2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EstudiantesDAO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/dao/IDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/dao/impl/EstudianteDAOH2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/entidades/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/servcicios/EstudianteService.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d8ae787-402b-44ea-83f5-04c96aa6fa2e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
